@@ -43,12 +43,12 @@
 
 ### 🌟 Öne Çıkan Projeler
 
-| Proje | Açıklama | Teknoloji Yığını |
-| :--- | :--- | :--- |
-| **Hayat Hattı** | İnternetsiz ortamda BLE ile acil durum sinyali gönderen mobil uygulama. | Flutter, BLE, Dart |
-| **Kasko Makine** | Ağır sanayi ve süreç ekipmanları için kurumsal web platformu. | Next.js, TypeScript, Tailwind | [🌐 Canlı Site](https://kasko-landing.vercel.app) |
-| **Grafix Ajans** | Ajans hizmetleri için tasarlanmış kurumsal web sitesi. | HTML, CSS, JS | [🌐 Canlı Site](https://github.com/Firdevs64/grafix-ajans-web-sitesi) |
-| **GeoCam Notes** | Çevrimdışı konum tabanlı fotoğraf ve sesli not alma PWA uygulaması. | Vanilla JS, PWA API |
+| Proje | Açıklama | Teknoloji Yığını | Bağlantı |
+| :--- | :--- | :--- | :--- |
+| **Kasko Makine** | [cite_start]Ağır sanayi sektörü için SEO odaklı kurumsal platform[cite: 53]. | Next.js, TS, Tailwind | [🌐 Canlı Site](https://kasko-landing.vercel.app) |
+| **Hayat Hattı** | [cite_start]İnternetsiz BLE üzerinden acil yardım sinyali gönderen uygulama[cite: 49, 50]. | Flutter, BLE, Dart | [📱 İncele](https://github.com/Clumsy33-ES/Hayat-Hatti) |
+| **GeoCam Notes** | [cite_start]Çevrimdışı konum ve ses destekli PWA uygulaması[cite: 55, 56]. | JavaScript, PWA API | [🔗 GitHub](https://github.com/Firdevs64/geocam-notes-pwa) |
+| **Grafix Ajans** | [cite_start]Ajans hizmetleri için tasarlanmış kurumsal web sitesi[cite: 60, 61]. | HTML, CSS, JS | [🌐 Canlı Site](https://github.com/Firdevs64/grafix-ajans-web-sitesi) |
 
 ---
 
@@ -56,5 +56,13 @@
 ### 📫 Benimle İletişime Geç:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/firdevs-kose/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+  <a href="mailto:firdevs6452@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/firdevs-kose" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://medium.com/@firdevs6452" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>

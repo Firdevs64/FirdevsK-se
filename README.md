@@ -34,17 +34,9 @@ Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Modern 
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Benimle İletişime Geç:
 
 <p align="left">
-<a href="https://linkedin.com/https://www.linkedin.com/in/firdevs-kose/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/firdevs-kose/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>

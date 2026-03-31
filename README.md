@@ -2,7 +2,14 @@
 
 ### Yazılım Mühendisi Adayı | Frontend & Mobile Developer
 
-Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Modern web teknolojileri ve mobil uygulama geliştirme üzerine yoğunlaşıyorum. 
+### 🚀 Hakkımda
+
+* 🎓 **Yazılım Mühendisliği Öğrencisi:** Fırat Üniversitesi'nde 3. sınıf öğrencisiyim, modern yazılım mimarileri üzerine kendimi geliştiriyorum.
+* 📱 **Mobile & Offline-First Development:** Flutter ve Bluetooth Low Energy (BLE) kullanarak internet bağımsız çözümler (**Hayat Hattı**) geliştiriyorum.
+* 🌐 **Modern Web Teknolojileri:** Next.js, TypeScript ve Tailwind CSS ile yüksek performanslı kurumsal web platformları (**Kasko Makine**) tasarlıyorum.
+* ⚙️ **PWA & Edge Solutions:** Geolocation ve sesli not özellikli, çevrimdışı öncelikli Progressive Web Uygulamaları (**GeoCam Notes**) üzerinde çalışıyorum.
+* 💾 **System Programming & Database:** C#, Python ve SQL teknolojileriyle veri yönetimi ve masaüstü otomasyon sistemlerinde deneyim sahibiyim.
+* 🛠️ **Geliştirme Araçları:** Geliştirme süreçlerimde AI destekli **Cursor** editörünü aktif olarak kullanarak verimliliği artırıyorum.
 
 ---
 

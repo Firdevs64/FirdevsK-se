@@ -2,7 +2,7 @@
 
 ### Yazılım Mühendisi Adayı | Frontend & Mobile Developer
 
-Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Modern web teknolojileri ve mobil uygulama geliştirme üzerine yoğunlaşıyorum. Kullanıcı deneyimini ön planda tutan, ölçeklenebilir ve yenilikçi çözümler üretmeyi seviyorum.
+Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Modern web teknolojileri ve mobil uygulama geliştirme üzerine yoğunlaşıyorum. 
 
 ---
 
@@ -46,5 +46,5 @@ Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Modern 
 ### 📫 Benimle İletişime Geç:
 
 <p align="left">
-<a href="https://linkedin.com/in/LINKEDIN_ADRESIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/https://www.linkedin.com/in/firdevs-kose/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>

@@ -46,7 +46,8 @@
 | Proje | Açıklama | Teknoloji Yığını |
 | :--- | :--- | :--- |
 | **Hayat Hattı** | İnternetsiz ortamda BLE ile acil durum sinyali gönderen mobil uygulama. | Flutter, BLE, Dart |
-| **Kasko Makine** | Ağır sanayi ve süreç ekipmanları için kurumsal web platformu. | Next.js, TypeScript, Tailwind |
+| **Kasko Makine** | Ağır sanayi ve süreç ekipmanları için kurumsal web platformu. | Next.js, TypeScript, Tailwind | [🌐 Canlı Site](https://kasko-landing.vercel.app) |
+| **Grafix Ajans** | Ajans hizmetleri için tasarlanmış kurumsal web sitesi. | HTML, CSS, JS | [🌐 Canlı Site](https://github.com/Firdevs64/grafix-ajans-web-sitesi) |
 | **GeoCam Notes** | Çevrimdışı konum tabanlı fotoğraf ve sesli not alma PWA uygulaması. | Vanilla JS, PWA API |
 
 ---

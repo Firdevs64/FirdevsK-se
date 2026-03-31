@@ -46,9 +46,9 @@
 | Proje | Açıklama | Teknoloji Yığını | Bağlantı |
 | :--- | :--- | :--- | :--- |
 | **Kasko Makine** | Ağır sanayi sektörü için SEO odaklı kurumsal platform[cite: 53]. | Next.js, TS, Tailwind | [🌐 Canlı Site](https://kasko-landing.vercel.app) |
-| **Hayat Hattı** | [cite_start]İnternetsiz BLE üzerinden acil yardım sinyali gönderen uygulama[cite: 49, 50]. | Flutter, BLE, Dart | [📱 İncele](https://github.com/Clumsy33-ES/Hayat-Hatti) |
-| **GeoCam Notes** | [cite_start]Çevrimdışı konum ve ses destekli PWA uygulaması[cite: 55, 56]. | JavaScript, PWA API | [🔗 GitHub](https://github.com/Firdevs64/geocam-notes-pwa) |
-| **Grafix Ajans** | [cite_start]Ajans hizmetleri için tasarlanmış kurumsal web sitesi[cite: 60, 61]. | HTML, CSS, JS | [🌐 Canlı Site](https://github.com/Firdevs64/grafix-ajans-web-sitesi) |
+| **Hayat Hattı** | İnternetsiz BLE üzerinden acil yardım sinyali gönderen uygulama[cite: 49, 50]. | Flutter, BLE, Dart | [📱 İncele](https://github.com/Clumsy33-ES/Hayat-Hatti) |
+| **GeoCam Notes** | Çevrimdışı konum ve ses destekli PWA uygulaması[cite: 55, 56]. | JavaScript, PWA API | [🔗 GitHub](https://github.com/Firdevs64/geocam-notes-pwa) |
+| **Grafix Ajans** | Ajans hizmetleri için tasarlanmış kurumsal web sitesi[cite: 60, 61]. | HTML, CSS, JS | [🌐 Canlı Site](https://github.com/Firdevs64/grafix-ajans-web-sitesi) |
 
 ---
 
